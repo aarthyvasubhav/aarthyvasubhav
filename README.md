@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aarthyvasubhav
+- 👋 Hi, I’m @Aarthy Adhibagavan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Exploring technology
+- 💞️ I’m looking to collaborate on git,  aarthyvasubhav
+- 📫 How to reach me aarthyvasubhav003@gmail.com
 
 <!---
 aarthyvasubhav/aarthyvasubhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
