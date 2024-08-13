@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 Exploring technology
 - 💞️ I’m looking to collaborate on git,  aarthyvasubhav
-- 📫 How to reach me aarthyvasubhav003@gmail.com
+- 📫 How to reach me aarthyadhibagavan@gmail.com
 
 <!---
 aarthyvasubhav/aarthyvasubhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
